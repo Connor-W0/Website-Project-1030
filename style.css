@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(12, 75, 250);
+    color: rgb(255, 215, 134);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+
+}
+h1,h2{
+    background-color: rgb(183, 183, 191);
+    text-align: center;
+    font-size: 40px;
+    padding: 15px;
+
+
+}
+p{
+    background-color: rgb(132, 1, 36);
+    font-size: 20px;
+    line-height: 2;
+}
+li {
+    background-color: rgb(132, 1, 36);
+    font-size: 20px;
+    line-height: 2;
+}
+img{
+    width: 1000px;
+    height: 600px;
+    object-fit: fill;
+    box-shadow: 5px 8px 10px black;
+}
+
+ 
+    a:hover {
+        color: black;
+        text-decoration: underline;
+    }
+    a{
+
+    color: rgb(255, 215, 134);
+    
+}
+
